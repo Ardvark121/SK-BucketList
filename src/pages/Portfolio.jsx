@@ -16,6 +16,7 @@ export default function AboutMePage() {
           alt="Placeholder image with text 200 width and 200 height "
         />
       </a>
+      <p>GitHub: https://github.com/Ardvark121/SK-NoteTaker</p>
       <strong>TechBlog: Personal Project</strong>
       <a href="https://sk-techblog-a5d429576b0b.herokuapp.com/" target="_blank">
         <img
@@ -24,6 +25,7 @@ export default function AboutMePage() {
           alt="Placeholder image with text 200 width and 200 height "
         />
       </a>
+      <p>Github: https://github.com/Ardvark121/SK-TechBlog</p>
       <strong>PlantSearch: Group Project</strong>
       <a
         href="https://abigailjoy93.github.io/plant-search-project/"
@@ -35,6 +37,7 @@ export default function AboutMePage() {
           alt="Placeholder image with text 200 width and 200 height "
         />
       </a>
+      <p>Github: https://github.com/abigailjoy93/plant-search-project</p>
     </div>
   );
 }
